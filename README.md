@@ -1,10 +1,4 @@
-[![kinetic-devel Status](https://github.com/ROBOTIS-GIT/DynamixelSDK/workflows/kinetic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/DynamixelSDK/tree/kinetic-devel)
-[![melodic-devel Status](https://github.com/ROBOTIS-GIT/DynamixelSDK/workflows/melodic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/DynamixelSDK/tree/melodic-devel)
-[![noetic-devel Status](https://github.com/ROBOTIS-GIT/DynamixelSDK/workflows/noetic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/DynamixelSDK/tree/noetic-devel)
-[![dashing-devel Status](https://github.com/ROBOTIS-GIT/DynamixelSDK/workflows/dashing-devel/badge.svg)](https://github.com/ROBOTIS-GIT/DynamixelSDK/tree/dashing-devel)
-[![foxy-devel Status](https://github.com/ROBOTIS-GIT/DynamixelSDK/workflows/foxy-devel/badge.svg)](https://github.com/ROBOTIS-GIT/DynamixelSDK/tree/foxy-devel)
-[![galactic-devel Status](https://github.com/ROBOTIS-GIT/DynamixelSDK/workflows/galactic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/DynamixelSDK/tree/galactic-devel)
-[![humble-devel Status](https://github.com/ROBOTIS-GIT/DynamixelSDK/workflows/humble-devel/badge.svg)](https://github.com/ROBOTIS-GIT/DynamixelSDK/tree/humble-devel)
+Fork of Dynamixel SDK
 
 <img src="http://emanual.robotis.com/assets/images/sw/sdk/dynamixel_sdk/overview/dynamixel_sdk_concept_logo.jpg">
 
